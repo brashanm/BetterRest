@@ -22,6 +22,7 @@ struct ContentView: View {
     @State private var alertTitle = ""
     @State private var alertMessage = ""
     @State private var showingAlert = false
+    @State private var checkCommit = true
     
     var body: some View {
         NavigationStack {
@@ -81,4 +82,8 @@ struct ContentView: View {
         }
         showingAlert = true
     }
+}
+
+#Preview {
+    ContentView()
 }
