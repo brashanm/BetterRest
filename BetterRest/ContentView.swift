@@ -82,7 +82,3 @@ struct ContentView: View {
         showingAlert = true
     }
 }
-
-#Preview {
-    ContentView()
-}
