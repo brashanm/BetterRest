@@ -3,7 +3,7 @@
 //  BetterRest
 //
 //  Created by Brashan Mohanakumar on 2023-11-07.
-//  Created with the help of CoreML and SwiftUI
+//
 import CoreML
 import SwiftUI
 
